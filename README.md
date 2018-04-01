@@ -1,5 +1,9 @@
 This is an update on someone else's solution to a fun problem.
 
+A certain group of devs were challenging themselves to create the fastest solution to a problem.  
+
+I didn't come up with my own solution, just made one of the other dev's solution faster.
+
 # Original Problem
 
 Given a “Field of Trees”, find the largest rectangle inside it that has no trees.
